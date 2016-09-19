@@ -1,2 +1,3 @@
 # Hello-Word
-My first repository
+
+This is supposed to be a readme file about the new repository 
